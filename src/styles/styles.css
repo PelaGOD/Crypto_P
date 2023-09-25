@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Estilos generales para el cuerpo de la página */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+/* Estilos generales para enlaces */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Agrega otros estilos generales según tus necesidades */
